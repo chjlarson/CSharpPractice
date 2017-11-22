@@ -15,7 +15,7 @@ namespace typeConversion
             Console.WriteLine(w);
 
             string number = "1234";
-            int e = Conver.ToInt32(number);
+            int e = Convert.ToInt32(number);
             Console.WriteLine(e);
 
             try 

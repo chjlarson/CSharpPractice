@@ -8,7 +8,7 @@ namespace operators
         {
             var a = 10;
             var b = 3;
-            var c = 2
+            var c = 2;
 
             Console.WriteLine((a + b) * c);
             Console.WriteLine(a > b);
