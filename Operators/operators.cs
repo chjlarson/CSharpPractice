@@ -1,6 +1,6 @@
 using System;
 
-namespace operators
+namespace Operators
 {
     class Program
     {
@@ -14,6 +14,7 @@ namespace operators
             Console.WriteLine(a > b);
             Console.WriteLine(a == b);
             Console.WriteLine(!(a != b));
+            Console.WriteLine(c > b || c == a);
         }
     }
 }
