@@ -27,21 +27,20 @@ namespace PracticeProblems
                 numList.Add(Convert.ToInt32(num));
             }
 
+            numList.Sort();
+
             // Determine if Consecutive 
-            for (var i = 0; i < numList.Count - 1; i++)
+            for (var i = 1; i < numList.Count; i++)
             {
-                
+                if (numList[i] != numList[i - 1] + 1)
+                {
+                    consecutive = false;
+                }
             }
 
             // Print whether the list is Consecutive or not
-            if (consecutive)
-            {
-                System.Console.WriteLine("Consecutive");
-            }
-            else
-            {
-                System.Console.WriteLine("Non Consecutive");
-            }
+            var message = consecutive ? "Consecutive" : "Not Consecutive";
+            System.Console.WriteLine(message);
         }
     }
 }
