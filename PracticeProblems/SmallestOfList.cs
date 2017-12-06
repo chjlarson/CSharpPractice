@@ -40,7 +40,7 @@ namespace PracticeProblems
                 numbers.Add(Convert.ToInt32(number));
             }
 
-            var smallest = SmallestFromList(numbers);
+            var smallest = SmallestFromList(numbers, 3);
 
             System.Console.WriteLine("The 3 smallest numbers are: ");
             foreach (var number in smallest)
@@ -49,10 +49,10 @@ namespace PracticeProblems
             }
         }
 
-        public static List<int> SmallestFromList (List<int> numbers)
+        public static List<int> SmallestFromList (List<int> numbers, int count)
         {
             var smallest = new List<int>();
-            while (smallest.Count < 3)
+            while (smallest.Count < count)
             {
                 // Assume the first number is the smallest
                 var min = numbers[0];
