@@ -15,7 +15,6 @@ namespace PracticeProblems
 
             // List of user inputs
             var numList = new List<int>();
-            var consecutive = true;
 
             // Get the user inputs
             System.Console.WriteLine("Enter a few numbers separated by -'s: ");
@@ -27,6 +26,14 @@ namespace PracticeProblems
                 numList.Add(Convert.ToInt32(num));
             }
 
+            // Print whether the list is Consecutive or not
+            var message = isConsecutive(numList) ? "Consecutive" : "Not Consecutive";
+            System.Console.WriteLine(message);
+        }
+
+        public static bool isConsecutive (List<int> numList)
+        {
+            var consecutive = true;
             numList.Sort();
 
             // Determine if Consecutive 
@@ -38,9 +45,7 @@ namespace PracticeProblems
                 }
             }
 
-            // Print whether the list is Consecutive or not
-            var message = consecutive ? "Consecutive" : "Not Consecutive";
-            System.Console.WriteLine(message);
+            return consecutive;
         }
     }
 }

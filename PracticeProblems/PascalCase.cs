@@ -23,6 +23,11 @@ namespace PracticeProblems
                 return;
             }
 
+            Console.WriteLine(PascalCaseVariable(input));
+        }
+
+        public static string PascalCaseVariable (string input)
+        {
             var variableName = "";
             foreach (var word in input.Split(' '))
             {
@@ -30,7 +35,7 @@ namespace PracticeProblems
                 variableName += wordPC;
             }
 
-            Console.WriteLine(variableName);
+            return variableName;
         }
     }
 }

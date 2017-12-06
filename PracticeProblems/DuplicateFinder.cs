@@ -14,8 +14,6 @@ namespace PracticeProblems
             /// </summary>
 
             var numList = new List<int>();
-            var uniques = new List<int>();
-            var duplicates = false;
 
             Console.Write("Enter a few numbers separated by a '-'");
             var input = Console.ReadLine();
@@ -30,6 +28,17 @@ namespace PracticeProblems
                 numList.Add(Convert.ToInt32(num));
             }
 
+            if (isDuplicate(numList))
+            {
+                Console.WriteLine("Duplicate");
+            }
+        }
+
+        public static bool isDuplicate (List<int> numList)
+        {
+            var uniques = new List<int>();
+            var duplicates = false;
+            
             foreach (var num in numList)
             {
                 if (!uniques.Contains(num))
@@ -42,11 +51,7 @@ namespace PracticeProblems
                     break;
                 }
             }
-
-            if (duplicates)
-            {
-                Console.WriteLine("Duplicate");
-            }
+            return duplicates;
         }
     }
 }
