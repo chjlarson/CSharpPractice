@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+
+namespace Constructors
+{
+    public class Customer
+    {
+        public int ID;
+        public string Name;
+        public List<Order> Orders;
+
+        public Customer()
+        {
+            Orders = new List<Order>();
+        }
+
+        public Customer(int id)
+            : this()
+        {
+            this.ID = id;
+        }
+
+        public Customer(int id, string name)
+        {
+            this.id = id;
+            this.Name = name;
+        }
+    }
+}
