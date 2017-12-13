@@ -21,8 +21,8 @@ namespace Constructors
         }
 
         public Customer(int id, string name)
+            : this(id)
         {
-            this.id = id;
             this.Name = name;
         }
     }
