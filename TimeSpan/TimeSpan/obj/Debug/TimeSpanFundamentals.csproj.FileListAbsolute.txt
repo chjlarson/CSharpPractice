@@ -1,0 +1,5 @@
+C:\Users\c_l445\Desktop\C#\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe.config
+C:\Users\c_l445\Desktop\C#\TimeSpan\TimeSpan\bin\Debug\TimeSpan.exe
+C:\Users\c_l445\Desktop\C#\TimeSpan\TimeSpan\bin\Debug\TimeSpan.pdb
+C:\Users\c_l445\Desktop\C#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.exe
+C:\Users\c_l445\Desktop\C#\TimeSpan\TimeSpan\obj\Debug\TimeSpan.pdb

@@ -1,0 +1,6 @@
+C:\Users\c_l445\Desktop\C#\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe.config
+C:\Users\c_l445\Desktop\C#\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.csprojResolveAssemblyReference.cache
+C:\Users\c_l445\Desktop\C#\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.exe
+C:\Users\c_l445\Desktop\C#\WorkingWithFiles\WorkingWithFiles\bin\Debug\WorkingWithFiles.pdb
+C:\Users\c_l445\Desktop\C#\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.exe
+C:\Users\c_l445\Desktop\C#\WorkingWithFiles\WorkingWithFiles\obj\Debug\WorkingWithFiles.pdb

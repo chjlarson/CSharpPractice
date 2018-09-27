@@ -1,0 +1,5 @@
+C:\Users\c_l445\Desktop\C#\PathFundamentals\PathFundamentals\bin\Debug\PathFundamentals.exe.config
+C:\Users\c_l445\Desktop\C#\PathFundamentals\PathFundamentals\bin\Debug\PathFundamentals.exe
+C:\Users\c_l445\Desktop\C#\PathFundamentals\PathFundamentals\bin\Debug\PathFundamentals.pdb
+C:\Users\c_l445\Desktop\C#\PathFundamentals\PathFundamentals\obj\Debug\PathFundamentals.exe
+C:\Users\c_l445\Desktop\C#\PathFundamentals\PathFundamentals\obj\Debug\PathFundamentals.pdb

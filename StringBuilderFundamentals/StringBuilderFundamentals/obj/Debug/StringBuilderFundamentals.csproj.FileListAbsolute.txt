@@ -1,0 +1,5 @@
+C:\Users\c_l445\Desktop\C#\StringBuilderFundamentals\StringBuilderFundamentals\bin\Debug\StringBuilderFundamentals.exe.config
+C:\Users\c_l445\Desktop\C#\StringBuilderFundamentals\StringBuilderFundamentals\bin\Debug\StringBuilderFundamentals.exe
+C:\Users\c_l445\Desktop\C#\StringBuilderFundamentals\StringBuilderFundamentals\bin\Debug\StringBuilderFundamentals.pdb
+C:\Users\c_l445\Desktop\C#\StringBuilderFundamentals\StringBuilderFundamentals\obj\Debug\StringBuilderFundamentals.exe
+C:\Users\c_l445\Desktop\C#\StringBuilderFundamentals\StringBuilderFundamentals\obj\Debug\StringBuilderFundamentals.pdb

@@ -1,0 +1,6 @@
+C:\Users\c_l445\Desktop\C#\CSharoFundamentals\CSharoFundamentals\obj\Debug\CSharpFundamentals.csprojResolveAssemblyReference.cache
+C:\Users\c_l445\Desktop\C#\CSharoFundamentals\CSharoFundamentals\obj\Debug\CSharoFundamentals.exe
+C:\Users\c_l445\Desktop\C#\CSharoFundamentals\CSharoFundamentals\obj\Debug\CSharoFundamentals.pdb
+C:\Users\c_l445\Desktop\C#\CSharoFundamentals\CSharoFundamentals\bin\Debug\CSharoFundamentals.exe.config
+C:\Users\c_l445\Desktop\C#\CSharoFundamentals\CSharoFundamentals\bin\Debug\CSharoFundamentals.exe
+C:\Users\c_l445\Desktop\C#\CSharoFundamentals\CSharoFundamentals\bin\Debug\CSharoFundamentals.pdb

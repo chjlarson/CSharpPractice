@@ -1,0 +1,6 @@
+C:\Users\c_l445\Desktop\C#\CSharpfundamentals3\CSharpfundamentals3\bin\Debug\CSharpfundamentals3.exe.config
+C:\Users\c_l445\Desktop\C#\CSharpfundamentals3\CSharpfundamentals3\bin\Debug\CSharpfundamentals3.exe
+C:\Users\c_l445\Desktop\C#\CSharpfundamentals3\CSharpfundamentals3\bin\Debug\CSharpfundamentals3.pdb
+C:\Users\c_l445\Desktop\C#\CSharpfundamentals3\CSharpfundamentals3\obj\Debug\CSharpfundamentals3.csprojResolveAssemblyReference.cache
+C:\Users\c_l445\Desktop\C#\CSharpfundamentals3\CSharpfundamentals3\obj\Debug\CSharpfundamentals3.exe
+C:\Users\c_l445\Desktop\C#\CSharpfundamentals3\CSharpfundamentals3\obj\Debug\CSharpfundamentals3.pdb

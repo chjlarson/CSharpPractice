@@ -1,0 +1,5 @@
+C:\Users\c_l445\Desktop\C#\Iterations\Iterations\bin\Debug\Iterations.exe.config
+C:\Users\c_l445\Desktop\C#\Iterations\Iterations\bin\Debug\Iterations.exe
+C:\Users\c_l445\Desktop\C#\Iterations\Iterations\bin\Debug\Iterations.pdb
+C:\Users\c_l445\Desktop\C#\Iterations\Iterations\obj\Debug\Iterations.exe
+C:\Users\c_l445\Desktop\C#\Iterations\Iterations\obj\Debug\Iterations.pdb

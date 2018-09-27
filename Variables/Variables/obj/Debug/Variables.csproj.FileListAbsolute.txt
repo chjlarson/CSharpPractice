@@ -1,0 +1,11 @@
+C:\Users\c_l445\Desktop\C#\Variables\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\c_l445\Desktop\C#\Variables\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\c_l445\Desktop\C#\Variables\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\c_l445\Desktop\C#\Variables\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\c_l445\Desktop\C#\Variables\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\c_l445\Desktop\C#\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\c_l445\Desktop\C#\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\c_l445\Desktop\C#\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\c_l445\Desktop\C#\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\c_l445\Desktop\C#\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\c_l445\Desktop\C#\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache

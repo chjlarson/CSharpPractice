@@ -1,0 +1,5 @@
+C:\Users\c_l445\Desktop\C#\SummarisingText\SummarisingText\bin\Debug\SummarisingText.exe.config
+C:\Users\c_l445\Desktop\C#\SummarisingText\SummarisingText\bin\Debug\SummarisingText.exe
+C:\Users\c_l445\Desktop\C#\SummarisingText\SummarisingText\bin\Debug\SummarisingText.pdb
+C:\Users\c_l445\Desktop\C#\SummarisingText\SummarisingText\obj\Debug\SummarisingText.exe
+C:\Users\c_l445\Desktop\C#\SummarisingText\SummarisingText\obj\Debug\SummarisingText.pdb

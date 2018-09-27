@@ -1,0 +1,6 @@
+C:\Users\c_l445\Desktop\C#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe.config
+C:\Users\c_l445\Desktop\C#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.exe
+C:\Users\c_l445\Desktop\C#\DatesAndTimes\DatesAndTimes\bin\Debug\DatesAndTimes.pdb
+C:\Users\c_l445\Desktop\C#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.csprojResolveAssemblyReference.cache
+C:\Users\c_l445\Desktop\C#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.exe
+C:\Users\c_l445\Desktop\C#\DatesAndTimes\DatesAndTimes\obj\Debug\DatesAndTimes.pdb
