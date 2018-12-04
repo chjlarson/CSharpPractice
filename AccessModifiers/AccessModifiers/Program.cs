@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Amazon;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -28,6 +29,9 @@ namespace AccessModifiers
             var person = new Person();
             person.SetBirthdate(new DateTime(1982, 1, 1));
             Console.WriteLine(person.GetBirthdate());
+
+            var customer = new Customer();
+            //Amazon.RateCalculator = new RateCalculator();
         }
     }
 }

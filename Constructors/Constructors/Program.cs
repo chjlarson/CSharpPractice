@@ -15,7 +15,9 @@ namespace Constructors
             Console.WriteLine(customer.Name);
 
             var order = new Order();
-            customer.Orders.Add(order)
+            customer.Orders.Add(order);
+
+            var car = new Car("500");
         }
     }
 }    

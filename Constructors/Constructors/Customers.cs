@@ -15,7 +15,7 @@ namespace Constructors
         // Defualt Constructor
         public Customer()
         {
-            Orders = new List<Order>;
+            Orders = new List<Order>();
         }
 
         // Overloaded Constructors
